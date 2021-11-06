@@ -1,0 +1,10 @@
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\bin\Debug\HalliGalli.exe.config
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\bin\Debug\HalliGalli.exe
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\bin\Debug\HalliGalli.pdb
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.csproj.AssemblyReference.cache
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.Form1.resources
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.Properties.Resources.resources
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.csproj.GenerateResource.cache
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.csproj.CoreCompileInputs.cache
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.exe
+C:\Users\dydqn\OneDrive\바탕 화면\할리갈리\HalliGalli\HalliGalli\obj\Debug\HalliGalli.pdb
